@@ -1,75 +1,70 @@
 <!DOCTYPE html>
 <html lang="EN">
-
-<head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" />
-    <link href="index.css" rel="stylesheet" />
-    <title>Renegade X Server List</title>
-    <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
-    <script src="https://cdn.socket.io/4.4.0/socket.io.min.js"></script>
-    <script src="index.js"></script>
-</head>
-
-<body>
-    <div id="back" class="backgroundImage">
-        <div class="serverInfo">
-            <h3 id="serverTitle">Renegade X Server</h3>
-            <label for="serverNames">Choose a server:</label>
-            <select name="serverNames" id="serverNames">
-                <option value="SomeUUID">Renegade X Server</option>
-            </select>
-        </div>
-        <div class="wrapper">
-            <div class="mapInfo">
-                <div class="mapInfoNoHover">
-                    <h1 id="mapName">Field</h1>
-                    <span>Player Count:</span>
-                    <span id="minPlayerCount">0</span>
-                    <span id="maxPlayerCount">/ 64</span>
-                    <div>
-                        <span>Bot Count:</span>
-                        <span id="botCount">69</span>
-                    </div>
-                </div>
-                <div class="mapInfoHover">
-                    <h1 id="totalCount">Total: 69</h1>
-                </div>
+   <head>
+      <meta charset="utf-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1" />
+      <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" />
+      <link href="index.css" rel="stylesheet" />
+      <title>Renegade X Server List</title>
+      <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+      <script src="https://cdn.socket.io/4.4.0/socket.io.min.js"></script>
+      <script src="index.js"></script>
+   </head>
+   <body id="back">
+      <div class="serverInfo">
+         <h3 id="serverTitle">Renegade X Server</h3>
+         <label for="serverNames">Choose a server:</label>
+         <select name="serverNames" id="serverNames">
+            <option value="SomeUUID">Renegade X Server</option>
+         </select>
+      </div>
+      <div class="wrapper">
+         <div class="mapInfo">
+            <div class="mapInfoNoHover">
+               <h1 id="mapName">Field</h1>
+               <span>Player Count:</span>
+               <span id="minPlayerCount">0</span>
+               <span id="maxPlayerCount">/ 64</span>
+               <div>
+                  <span>Bot Count:</span>
+                  <span id="botCount">69</span>
+               </div>
             </div>
-        </div>
-        <div class="playerList">
-            <ul id="nodlist">
-                <li>Some random guy</li>
-                <li>Some random guy two</li>
-                <li>Some random guy three</li>
-                <li>Some random guy 4</li>
-                <li>Some random guy 55</li>
-                <li>Some random guy 69</li>
-                <li>Some random guy with cheats</li>
-                <li>Some random guy</li>
-                <li>Some guy</li>
-                <li>Some random guy with a long name</li>
-            </ul>
-        </div>
-        <div class="discordInfo">
-            <p>
-                <a target="_blank" href="https://discord.gg/renegadex">Join Renegade X on Discord!</a>
-            </p>
-        </div>
-        <div class="wrapper">
-            <div class="sponsorInfo">
-                <div class="sponsorInfoNoHover">
-                    <p>Not sponsored or affiliated with Totem Arts or EA</p>
-                </div>
-                <div class="sponsorInfoHover">
-                    <p>
-                        <a target="_blank" href="https://github.com/sevans045">Made with ❤️ by Sarah</a>
-                    </p>
-                </div>
+            <div class="mapInfoHover">
+               <h1 id="totalCount">Total: 69</h1>
             </div>
-        </div>
-    </div>
-</body>
-
+         </div>
+      </div>
+      <div class="playerList">
+         <ul id="nodlist">
+            <li>Some random guy</li>
+            <li>Some random guy two</li>
+            <li>Some random guy three</li>
+            <li>Some random guy 4</li>
+            <li>Some random guy 55</li>
+            <li>Some random guy 69</li>
+            <li>Some random guy with cheats</li>
+            <li>Some random guy</li>
+            <li>Some guy</li>
+            <li>Some random guy with a long name</li>
+         </ul>
+      </div>
+      <div class="discordInfo">
+         <p>
+            <a target="_blank" href="https://discord.gg/renegadex">Join Renegade X on Discord!</a>
+         </p>
+      </div>
+      <div class="wrapper">
+         <div class="sponsorInfo">
+            <div class="sponsorInfoNoHover">
+               <p>Not sponsored or affiliated with Totem Arts or EA</p>
+            </div>
+            <div class="sponsorInfoHover">
+               <p>
+                  <a target="_blank" href="https://github.com/sevans045">Made with ❤️ by Sarah</a>
+               </p>
+            </div>
+         </div>
+      </div>
+   </body>
 </html>
