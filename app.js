@@ -65,7 +65,7 @@ setInterval(fetchData, 15000);
 setInterval(broadcastToSocket, 5000);
 
 // Loading socket.io
-const io = require("socket.io")(server, { cors: { origin: '*'} }); // Risky origin, set to correct origin
+const io = require("socket.io")(server, { cors: { origin: "*"} });
 // When a client connects, we note it in the console
 io.sockets.on("connection", function (socket) {
     console.log("Incoming: " + socket.handshake.address);
