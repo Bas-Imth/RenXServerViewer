@@ -329,7 +329,7 @@
     "NamePrefix": "",
     "Current Map": "CNC-Eyes",
     "Bots": 0,
-    "Players": 59,
+    "Players": 63,
     "Game Version": "Open Beta 5.584.211",
     "Attributes": [],
     "Variables": {
@@ -474,16 +474,10 @@
         "Name": "Kev_2k"
       },
       {
-        "Name": "Tesco.Value.Jam"
-      },
-      {
         "Name": "joumanne"
       },
       {
         "Name": "Something.Incredible"
-      },
-      {
-        "Name": "Mental Peace"
       },
       {
         "Name": "Cacutar"
@@ -493,12 +487,6 @@
       },
       {
         "Name": "ImperiosUltra"
-      },
-      {
-        "Name": "Mr.Pickles"
-      },
-      {
-        "Name": "Bears1444"
       },
       {
         "Name": "Alāʼad-Dīn"
@@ -525,13 +513,7 @@
         "Name": "Evergreen"
       },
       {
-        "Name": "ali.ahmad13"
-      },
-      {
         "Name": "Omnicron"
-      },
-      {
-        "Name": "Leader Bee"
       },
       {
         "Name": "Miko"
@@ -549,22 +531,13 @@
         "Name": "Rapture"
       },
       {
-        "Name": "Sn1ke"
-      },
-      {
         "Name": "Wilk"
-      },
-      {
-        "Name": "HesH"
       },
       {
         "Name": "ur anus"
       },
       {
         "Name": "FraGGenstein"
-      },
-      {
-        "Name": "[B-5][B-4][B-3]"
       },
       {
         "Name": "Peter Griffin"
@@ -597,28 +570,13 @@
         "Name": "Mandrake"
       },
       {
-        "Name": "Yano"
-      },
-      {
         "Name": "AX000"
       },
       {
         "Name": "Sargeswe"
       },
       {
-        "Name": "Bradbyr"
-      },
-      {
-        "Name": "[Karma] mnu"
-      },
-      {
         "Name": "Albion"
-      },
-      {
-        "Name": "doug61"
-      },
-      {
-        "Name": "NarKofer"
       },
       {
         "Name": "DelliFisek"
@@ -630,12 +588,6 @@
         "Name": "Sangarius"
       },
       {
-        "Name": "iFappo"
-      },
-      {
-        "Name": "Schwoop"
-      },
-      {
         "Name": "Asanox1"
       },
       {
@@ -645,7 +597,67 @@
         "Name": "xtractor"
       },
       {
-        "Name": "Hechsler"
+        "Name": "decardt"
+      },
+      {
+        "Name": "COIN_COIN"
+      },
+      {
+        "Name": "TheGhost1612"
+      },
+      {
+        "Name": "homeak"
+      },
+      {
+        "Name": "ScorsaziE"
+      },
+      {
+        "Name": "Snappy"
+      },
+      {
+        "Name": "xxdoom"
+      },
+      {
+        "Name": "Blue"
+      },
+      {
+        "Name": "gelo"
+      },
+      {
+        "Name": "Old Fridge(Luigi)"
+      },
+      {
+        "Name": "bluv"
+      },
+      {
+        "Name": "TheVikingShip"
+      },
+      {
+        "Name": "hamburger"
+      },
+      {
+        "Name": "Player2565"
+      },
+      {
+        "Name": "Mental Peace"
+      },
+      {
+        "Name": "Spock"
+      },
+      {
+        "Name": "Maalobs"
+      },
+      {
+        "Name": "hellpanderrr"
+      },
+      {
+        "Name": "RoganKane"
+      },
+      {
+        "Name": "¤SAR¤"
+      },
+      {
+        "Name": "Panotrok"
       }
     ],
     "UUID": "14a26d18-db55-5b87-81cc-c94a56a6d23c"
@@ -804,9 +816,9 @@
   {
     "Name": "[CT] Map Testing",
     "NamePrefix": "",
-    "Current Map": "CNC-GoldRush",
+    "Current Map": "CNC-Tomb",
     "Bots": 0,
-    "Players": 1,
+    "Players": 2,
     "Game Version": "Open Beta 5.584.211",
     "Attributes": [],
     "Variables": {
@@ -947,7 +959,10 @@
     ],
     "PlayerList": [
       {
-        "Name": "Player276"
+        "Name": "WhiteChocoBoy"
+      },
+      {
+        "Name": "Player297"
       }
     ],
     "UUID": "b583da17-8dbd-50e8-bcc2-6a10aab5fe24"
@@ -955,8 +970,8 @@
   {
     "Name": "Renegade X Server",
     "NamePrefix": "",
-    "Current Map": "BH-LakeSide",
-    "Bots": 0,
+    "Current Map": "CNC-Snow",
+    "Bots": 22,
     "Players": 2,
     "Game Version": "Open Beta 5.584.211",
     "Attributes": [],
@@ -969,10 +984,10 @@
       "Player Limit": 64,
       "Vehicle Limit": 11,
       "bAutoBalanceTeams": false,
-      "Team Mode": 6,
+      "Team Mode": 4,
       "bSpawnCrates": true,
       "CrateRespawnAfterPickup": 30,
-      "Time Limit": 0
+      "Time Limit": 35
     },
     "Levels": [
       {
@@ -1098,12 +1113,12 @@
     ],
     "PlayerList": [
       {
-        "Name": "Gandalf"
+        "Name": "DiscoPanzer"
       },
       {
-        "Name": "The Doctor"
+        "Name": "Detritus"
       }
     ],
-    "UUID": "a2914619-18ee-5de2-a616-b1d221c14a74"
+    "UUID": "6db69522-2bd1-5bf1-bfd9-93d2571c84df"
   }
 ]

@@ -1,4 +1,4 @@
-var socket = io.connect("142.93.67.215:8080", { transports: ["weebsocket"] });
+var socket = io.connect("142.93.67.215:8080", { transports: ["websocket"] });
 var allServers;
 var savedIndex = -1;
 var lastUUID = "";
