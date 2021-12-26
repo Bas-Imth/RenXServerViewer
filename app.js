@@ -4,10 +4,28 @@ var renxdata;
 
 // Loading the index file . html displayed to the client
 var server = http.createServer(function (req, res) {
-    fs.readFile("./index.html", "utf-8", function (error, content) {
-        res.writeHead(200, { "Content-Type": "text/html" });
-        res.end(content);
-    });
+    if(req.url == '/'){
+        fs.readFile("./index.html", function (err, data) {
+        if (err) throw err;
+            res.writeHead(200, { "Content-Type": "text/html" });
+            res.write(data);
+            res.end();
+        })
+    }
+    else if(req.url == '/style.css'){
+        res.setHeader('Content-type', 'text/css');
+        res.write(fs.readFileSync('./style.css'));
+        res.end();
+    }
+    else if(req.url == '/script.js'){
+        res.setHeader('Content-type', 'text/javascript');
+        res.write(fs.readFileSync('./script.js'));
+        res.end();
+    } 
+    else {
+        res.write("invalid request")
+        res.end();
+    }
 });
 
 function fetchData() {
