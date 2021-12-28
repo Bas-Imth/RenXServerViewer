@@ -104,4 +104,4 @@ dist
 .tern-port
 
 # DATA Json file
-/data.json
+data.json
