@@ -1,4 +1,4 @@
-var socket = io.connect("localhost", { transports: ["websocket"] });
+var socket = io.connect("<My-Public-IP>", { transports: ["websocket"] });
 var allServers;
 var savedIndex = -1;
 var lastUUID = "";

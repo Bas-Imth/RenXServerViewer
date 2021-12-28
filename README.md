@@ -1,4 +1,7 @@
 # RenXServerViewer
+Make sure you set your server's IP on: script.js line 1
+
+
 In case you'd like to run it on Docker:  
 (Linux)  
 Open the terminal in this directory  
