@@ -116,7 +116,7 @@ ul {
 
 .mapInfo {
 	position: absolute;
-	top: 250px;
+	top: 300px;
 	left: 50%;
 	transform: translate(-50%, -50%);
 	text-align: center;
@@ -132,7 +132,7 @@ ul {
 
 .mapInfoHover {
 	position: absolute;
-	top: 125px;
+	top: 114px;
 	left: 50%;
 	transform: translate(-50%, -50%);
 	text-align: center;
@@ -141,7 +141,7 @@ ul {
 
 @media (min-width:720px) {
 	.mapInfoHover {
-		top: 50%;
+		top: 53%;
 		left: 50%;
 	}
 }
