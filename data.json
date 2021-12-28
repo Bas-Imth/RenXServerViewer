@@ -1,186 +1,8 @@
 [
   {
-    "Name": "[CT] PUG Server",
-    "NamePrefix": "",
-    "Current Map": "CNC-Daybreak",
-    "Bots": 0,
-    "Players": 0,
-    "Game Version": "Open Beta 5.584.211",
-    "Attributes": [],
-    "Variables": {
-      "Mine Limit": 24,
-      "bSteamRequired": false,
-      "bPrivateMessageTeamOnly": false,
-      "bPassworded": true,
-      "bAllowPrivateMessaging": true,
-      "Player Limit": 64,
-      "Vehicle Limit": 10,
-      "bAutoBalanceTeams": false,
-      "Team Mode": 1,
-      "bSpawnCrates": true,
-      "CrateRespawnAfterPickup": 31,
-      "Time Limit": 0
-    },
-    "Levels": [
-      {
-        "Name": "CNC-Field_Winter",
-        "GUID": "CA17CD0C4F7929E05E87BEB7A248980C"
-      },
-      {
-        "Name": "CNC-Hourglass",
-        "GUID": "C56FC04B416DC7BDB3DD39B00347438F"
-      },
-      {
-        "Name": "CNC-Walls_Winter",
-        "GUID": "DC65CBB84C8C9BC4482136832AFADA21"
-      },
-      {
-        "Name": "CNC-GoldRush",
-        "GUID": "3AF68B9A4255C4976D669BA0019D855D"
-      },
-      {
-        "Name": "CNC-Islands",
-        "GUID": "E12D3C814F0C54F050AA41BC49169A49"
-      },
-      {
-        "Name": "CNC-Islands_X",
-        "GUID": "5C3B23D1477A2F753F487AA1865AA01D"
-      },
-      {
-        "Name": "CNC-Mesa",
-        "GUID": "6C62C83243AF778CE7424E8BC3B763D0"
-      },
-      {
-        "Name": "CNC-Volcano",
-        "GUID": "B1665D8647A4F3F9B8D1279BF925C703"
-      },
-      {
-        "Name": "CNC-Eyes",
-        "GUID": "F0B4EE904B29FA53F34DD4A7C619D779"
-      },
-      {
-        "Name": "CNC-Complex",
-        "GUID": "32566DFC4D753883F1790390F9370D45"
-      },
-      {
-        "Name": "CNC-Under",
-        "GUID": "928ECDD2492C4E8EC62A7DA4BC17B057"
-      },
-      {
-        "Name": "CNC-CliffSide",
-        "GUID": "6DFF96064AE6F3A97DB17F982BB8AD4E"
-      },
-      {
-        "Name": "CNC-Crash_Site",
-        "GUID": "353A267744D0DD389ACEFFA0D5ACB5CA"
-      },
-      {
-        "Name": "CNC-Field_X",
-        "GUID": "386D011C49B6BF60F287D7A5B471ABCB"
-      },
-      {
-        "Name": "CNC-Oasis",
-        "GUID": "6E8EB59D477A713FFCAF768369642DA5"
-      },
-      {
-        "Name": "CNC-Outposts",
-        "GUID": "C889016A4A8C1BC620F00B94340CD2C5"
-      },
-      {
-        "Name": "CNC-Reservoir_Snowy",
-        "GUID": "705430AF4BDC99A48DD86BA70FAF8BA3"
-      },
-      {
-        "Name": "CNC-Tomb",
-        "GUID": "CE7DDFFA4C3845D09BF6AF9E1CF7958C"
-      },
-      {
-        "Name": "CNC-Tunnels",
-        "GUID": "184DFCC1452FF7DE4624499281DB6500"
-      },
-      {
-        "Name": "CNC-Uphill",
-        "GUID": "9BC98A804313B89757A4298392BD5B20"
-      },
-      {
-        "Name": "CNC-Arctic_Stronghold",
-        "GUID": "444D17494071194B63FB659CBFD70456"
-      },
-      {
-        "Name": "CNC-Daybreak",
-        "GUID": "056965A847F002789DC1A8AEB4343FB2"
-      },
-      {
-        "Name": "CNC-Lakeside_Winter",
-        "GUID": "0067CB76426DB6911A8B858A44D1C54E"
-      },
-      {
-        "Name": "CNC-Steppe",
-        "GUID": "6CF973374C960642B591DE9A24B0F7FB"
-      },
-      {
-        "Name": "CNC-Forest",
-        "GUID": "1D7063AF4764064E4B2E409071F399B6"
-      },
-      {
-        "Name": "CNC-Desolation_Snowing",
-        "GUID": "C35E41614138A41794B91D9ADDFC3766"
-      }
-    ],
-    "Mutators": [
-      {
-        "Name": "Rx_WebMutator"
-      }
-    ],
-    "UUID": "d719258b-7deb-5dd7-b212-9985149db7c4"
-  },
-  {
-    "Name": "[CT] Snipers",
-    "NamePrefix": "",
-    "Current Map": "CNC-Field",
-    "Bots": 15,
-    "Players": 0,
-    "Game Version": "Open Beta 5.584.211",
-    "Attributes": [],
-    "Variables": {
-      "Mine Limit": 24,
-      "bSteamRequired": false,
-      "bPrivateMessageTeamOnly": false,
-      "bPassworded": false,
-      "bAllowPrivateMessaging": true,
-      "Player Limit": 16,
-      "Vehicle Limit": 11,
-      "bAutoBalanceTeams": false,
-      "Team Mode": 6,
-      "bSpawnCrates": true,
-      "CrateRespawnAfterPickup": 30,
-      "Time Limit": 0
-    },
-    "Levels": [
-      {
-        "Name": "CNC-Islands",
-        "GUID": "E12D3C814F0C54F050AA41BC49169A49"
-      },
-      {
-        "Name": "CNC-Volcano",
-        "GUID": "B1665D8647A4F3F9B8D1279BF925C703"
-      },
-      {
-        "Name": "CNC-Field",
-        "GUID": "D636357643C44F4232258AB650574A82"
-      }
-    ],
-    "Mutators": [
-      {
-        "Name": "Rx_SniperMode"
-      }
-    ],
-    "UUID": "be899994-395c-55ec-a118-8359d99ac04b"
-  },
-  {
     "Name": "[CT] Marathon - NA",
     "NamePrefix": "",
-    "Current Map": "CNC-Islands_X",
+    "Current Map": "CNC-Field_Winter",
     "Bots": 1,
     "Players": 0,
     "Game Version": "Open Beta 5.584.211",
@@ -325,348 +147,10 @@
     "UUID": "1c2b0156-aab4-5d45-8168-6fabd3234ff3"
   },
   {
-    "Name": "[CT] Marathon - EU",
-    "NamePrefix": "",
-    "Current Map": "CNC-Eyes",
-    "Bots": 0,
-    "Players": 63,
-    "Game Version": "Open Beta 5.584.211",
-    "Attributes": [],
-    "Variables": {
-      "Mine Limit": 24,
-      "bSteamRequired": false,
-      "bPrivateMessageTeamOnly": false,
-      "bPassworded": false,
-      "bAllowPrivateMessaging": true,
-      "Player Limit": 64,
-      "Vehicle Limit": 11,
-      "bAutoBalanceTeams": false,
-      "Team Mode": 6,
-      "bSpawnCrates": true,
-      "CrateRespawnAfterPickup": 47,
-      "Time Limit": 0
-    },
-    "Levels": [
-      {
-        "Name": "CNC-Field_Winter",
-        "GUID": "CA17CD0C4F7929E05E87BEB7A248980C"
-      },
-      {
-        "Name": "CNC-Hourglass",
-        "GUID": "C56FC04B416DC7BDB3DD39B00347438F"
-      },
-      {
-        "Name": "CNC-Walls_Winter",
-        "GUID": "DC65CBB84C8C9BC4482136832AFADA21"
-      },
-      {
-        "Name": "CNC-GoldRush",
-        "GUID": "3AF68B9A4255C4976D669BA0019D855D"
-      },
-      {
-        "Name": "CNC-Whiteout",
-        "GUID": "D8728BAF485975A5D2CE8286A9976F18"
-      },
-      {
-        "Name": "CNC-Islands",
-        "GUID": "E12D3C814F0C54F050AA41BC49169A49"
-      },
-      {
-        "Name": "CNC-Islands_X",
-        "GUID": "5C3B23D1477A2F753F487AA1865AA01D"
-      },
-      {
-        "Name": "CNC-Mesa",
-        "GUID": "6C62C83243AF778CE7424E8BC3B763D0"
-      },
-      {
-        "Name": "CNC-Volcano",
-        "GUID": "B1665D8647A4F3F9B8D1279BF925C703"
-      },
-      {
-        "Name": "CNC-Canyon",
-        "GUID": "4A9EFF9F4FC4678965B3058B649F049E"
-      },
-      {
-        "Name": "CNC-Eyes",
-        "GUID": "F0B4EE904B29FA53F34DD4A7C619D779"
-      },
-      {
-        "Name": "CNC-Complex",
-        "GUID": "32566DFC4D753883F1790390F9370D45"
-      },
-      {
-        "Name": "CNC-Under",
-        "GUID": "928ECDD2492C4E8EC62A7DA4BC17B057"
-      },
-      {
-        "Name": "CNC-CliffSide",
-        "GUID": "6DFF96064AE6F3A97DB17F982BB8AD4E"
-      },
-      {
-        "Name": "CNC-Crash_Site",
-        "GUID": "353A267744D0DD389ACEFFA0D5ACB5CA"
-      },
-      {
-        "Name": "CNC-Field_X",
-        "GUID": "386D011C49B6BF60F287D7A5B471ABCB"
-      },
-      {
-        "Name": "CNC-Oasis",
-        "GUID": "6E8EB59D477A713FFCAF768369642DA5"
-      },
-      {
-        "Name": "CNC-Outposts",
-        "GUID": "C889016A4A8C1BC620F00B94340CD2C5"
-      },
-      {
-        "Name": "CNC-Reservoir_Snowy",
-        "GUID": "705430AF4BDC99A48DD86BA70FAF8BA3"
-      },
-      {
-        "Name": "CNC-Snow",
-        "GUID": "E3437A3D4C518D070BE1489FEC097FEB"
-      },
-      {
-        "Name": "CNC-Tomb",
-        "GUID": "CE7DDFFA4C3845D09BF6AF9E1CF7958C"
-      },
-      {
-        "Name": "CNC-Tunnels",
-        "GUID": "184DFCC1452FF7DE4624499281DB6500"
-      },
-      {
-        "Name": "CNC-Uphill",
-        "GUID": "9BC98A804313B89757A4298392BD5B20"
-      },
-      {
-        "Name": "CNC-Arctic_Stronghold",
-        "GUID": "444D17494071194B63FB659CBFD70456"
-      },
-      {
-        "Name": "CNC-Daybreak",
-        "GUID": "056965A847F002789DC1A8AEB4343FB2"
-      },
-      {
-        "Name": "CNC-Lakeside_Winter",
-        "GUID": "0067CB76426DB6911A8B858A44D1C54E"
-      },
-      {
-        "Name": "CNC-Steppe",
-        "GUID": "6CF973374C960642B591DE9A24B0F7FB"
-      },
-      {
-        "Name": "CNC-Forest",
-        "GUID": "1D7063AF4764064E4B2E409071F399B6"
-      },
-      {
-        "Name": "CNC-Desolation_Snowing",
-        "GUID": "C35E41614138A41794B91D9ADDFC3766"
-      }
-    ],
-    "Mutators": [
-      {
-        "Name": "Rx_WebMutator"
-      }
-    ],
-    "PlayerList": [
-      {
-        "Name": "Kev_2k"
-      },
-      {
-        "Name": "joumanne"
-      },
-      {
-        "Name": "Something.Incredible"
-      },
-      {
-        "Name": "Cacutar"
-      },
-      {
-        "Name": "DEO"
-      },
-      {
-        "Name": "ImperiosUltra"
-      },
-      {
-        "Name": "Alāʼad-Dīn"
-      },
-      {
-        "Name": "AbsoluteCuck"
-      },
-      {
-        "Name": "MathDotPI"
-      },
-      {
-        "Name": "SuViSaK"
-      },
-      {
-        "Name": "Thermite"
-      },
-      {
-        "Name": "Iryllium"
-      },
-      {
-        "Name": "akai"
-      },
-      {
-        "Name": "Evergreen"
-      },
-      {
-        "Name": "Omnicron"
-      },
-      {
-        "Name": "Miko"
-      },
-      {
-        "Name": "darkblade"
-      },
-      {
-        "Name": "[TmX]Belg"
-      },
-      {
-        "Name": "VideoCrow"
-      },
-      {
-        "Name": "Rapture"
-      },
-      {
-        "Name": "Wilk"
-      },
-      {
-        "Name": "ur anus"
-      },
-      {
-        "Name": "FraGGenstein"
-      },
-      {
-        "Name": "Peter Griffin"
-      },
-      {
-        "Name": "dr.Mobius"
-      },
-      {
-        "Name": "TheGrayCode"
-      },
-      {
-        "Name": "Toni"
-      },
-      {
-        "Name": "ffffffffffff"
-      },
-      {
-        "Name": "Gunny889"
-      },
-      {
-        "Name": "isupreme"
-      },
-      {
-        "Name": "stsee1"
-      },
-      {
-        "Name": "MercDrake"
-      },
-      {
-        "Name": "Mandrake"
-      },
-      {
-        "Name": "AX000"
-      },
-      {
-        "Name": "Sargeswe"
-      },
-      {
-        "Name": "Albion"
-      },
-      {
-        "Name": "DelliFisek"
-      },
-      {
-        "Name": "purr purr"
-      },
-      {
-        "Name": "Sangarius"
-      },
-      {
-        "Name": "Asanox1"
-      },
-      {
-        "Name": "LUUKIB PL"
-      },
-      {
-        "Name": "xtractor"
-      },
-      {
-        "Name": "decardt"
-      },
-      {
-        "Name": "COIN_COIN"
-      },
-      {
-        "Name": "TheGhost1612"
-      },
-      {
-        "Name": "homeak"
-      },
-      {
-        "Name": "ScorsaziE"
-      },
-      {
-        "Name": "Snappy"
-      },
-      {
-        "Name": "xxdoom"
-      },
-      {
-        "Name": "Blue"
-      },
-      {
-        "Name": "gelo"
-      },
-      {
-        "Name": "Old Fridge(Luigi)"
-      },
-      {
-        "Name": "bluv"
-      },
-      {
-        "Name": "TheVikingShip"
-      },
-      {
-        "Name": "hamburger"
-      },
-      {
-        "Name": "Player2565"
-      },
-      {
-        "Name": "Mental Peace"
-      },
-      {
-        "Name": "Spock"
-      },
-      {
-        "Name": "Maalobs"
-      },
-      {
-        "Name": "hellpanderrr"
-      },
-      {
-        "Name": "RoganKane"
-      },
-      {
-        "Name": "¤SAR¤"
-      },
-      {
-        "Name": "Panotrok"
-      }
-    ],
-    "UUID": "14a26d18-db55-5b87-81cc-c94a56a6d23c"
-  },
-  {
     "Name": "FairPlayInc.uk - Marathon - EU",
     "NamePrefix": "",
-    "Current Map": "CNC-Field",
-    "Bots": 11,
+    "Current Map": "CNC-LakeSide_Winter",
+    "Bots": 63,
     "Players": 0,
     "Game Version": "Open Beta 5.584.211",
     "Attributes": [],
@@ -814,11 +298,339 @@
     "UUID": "fb7af32b-bca3-5332-9a3d-130178e76a43"
   },
   {
+    "Name": "[CT] Marathon - EU",
+    "NamePrefix": "",
+    "Current Map": "CNC-Under",
+    "Bots": 0,
+    "Players": 7,
+    "Game Version": "Open Beta 5.584.211",
+    "Attributes": [],
+    "Variables": {
+      "Mine Limit": 24,
+      "bSteamRequired": false,
+      "bPrivateMessageTeamOnly": false,
+      "bPassworded": false,
+      "bAllowPrivateMessaging": true,
+      "Player Limit": 64,
+      "Vehicle Limit": 11,
+      "bAutoBalanceTeams": false,
+      "Team Mode": 6,
+      "bSpawnCrates": true,
+      "CrateRespawnAfterPickup": 47,
+      "Time Limit": 0
+    },
+    "Levels": [
+      {
+        "Name": "CNC-Field_Winter",
+        "GUID": "CA17CD0C4F7929E05E87BEB7A248980C"
+      },
+      {
+        "Name": "CNC-Hourglass",
+        "GUID": "C56FC04B416DC7BDB3DD39B00347438F"
+      },
+      {
+        "Name": "CNC-Walls_Winter",
+        "GUID": "DC65CBB84C8C9BC4482136832AFADA21"
+      },
+      {
+        "Name": "CNC-GoldRush",
+        "GUID": "3AF68B9A4255C4976D669BA0019D855D"
+      },
+      {
+        "Name": "CNC-Whiteout",
+        "GUID": "D8728BAF485975A5D2CE8286A9976F18"
+      },
+      {
+        "Name": "CNC-Islands",
+        "GUID": "E12D3C814F0C54F050AA41BC49169A49"
+      },
+      {
+        "Name": "CNC-Islands_X",
+        "GUID": "5C3B23D1477A2F753F487AA1865AA01D"
+      },
+      {
+        "Name": "CNC-Mesa",
+        "GUID": "6C62C83243AF778CE7424E8BC3B763D0"
+      },
+      {
+        "Name": "CNC-Volcano",
+        "GUID": "B1665D8647A4F3F9B8D1279BF925C703"
+      },
+      {
+        "Name": "CNC-Canyon",
+        "GUID": "4A9EFF9F4FC4678965B3058B649F049E"
+      },
+      {
+        "Name": "CNC-Eyes",
+        "GUID": "F0B4EE904B29FA53F34DD4A7C619D779"
+      },
+      {
+        "Name": "CNC-Complex",
+        "GUID": "32566DFC4D753883F1790390F9370D45"
+      },
+      {
+        "Name": "CNC-Under",
+        "GUID": "928ECDD2492C4E8EC62A7DA4BC17B057"
+      },
+      {
+        "Name": "CNC-CliffSide",
+        "GUID": "6DFF96064AE6F3A97DB17F982BB8AD4E"
+      },
+      {
+        "Name": "CNC-Crash_Site",
+        "GUID": "353A267744D0DD389ACEFFA0D5ACB5CA"
+      },
+      {
+        "Name": "CNC-Field_X",
+        "GUID": "386D011C49B6BF60F287D7A5B471ABCB"
+      },
+      {
+        "Name": "CNC-Oasis",
+        "GUID": "6E8EB59D477A713FFCAF768369642DA5"
+      },
+      {
+        "Name": "CNC-Outposts",
+        "GUID": "C889016A4A8C1BC620F00B94340CD2C5"
+      },
+      {
+        "Name": "CNC-Reservoir_Snowy",
+        "GUID": "705430AF4BDC99A48DD86BA70FAF8BA3"
+      },
+      {
+        "Name": "CNC-Snow",
+        "GUID": "E3437A3D4C518D070BE1489FEC097FEB"
+      },
+      {
+        "Name": "CNC-Tomb",
+        "GUID": "CE7DDFFA4C3845D09BF6AF9E1CF7958C"
+      },
+      {
+        "Name": "CNC-Tunnels",
+        "GUID": "184DFCC1452FF7DE4624499281DB6500"
+      },
+      {
+        "Name": "CNC-Uphill",
+        "GUID": "9BC98A804313B89757A4298392BD5B20"
+      },
+      {
+        "Name": "CNC-Arctic_Stronghold",
+        "GUID": "444D17494071194B63FB659CBFD70456"
+      },
+      {
+        "Name": "CNC-Daybreak",
+        "GUID": "056965A847F002789DC1A8AEB4343FB2"
+      },
+      {
+        "Name": "CNC-Lakeside_Winter",
+        "GUID": "0067CB76426DB6911A8B858A44D1C54E"
+      },
+      {
+        "Name": "CNC-Steppe",
+        "GUID": "6CF973374C960642B591DE9A24B0F7FB"
+      },
+      {
+        "Name": "CNC-Forest",
+        "GUID": "1D7063AF4764064E4B2E409071F399B6"
+      },
+      {
+        "Name": "CNC-Desolation_Snowing",
+        "GUID": "C35E41614138A41794B91D9ADDFC3766"
+      }
+    ],
+    "Mutators": [
+      {
+        "Name": "Rx_WebMutator"
+      }
+    ],
+    "PlayerList": [
+      {
+        "Name": "Radec"
+      },
+      {
+        "Name": "MARIUSZ"
+      },
+      {
+        "Name": "[CMA]Zanbrawler"
+      },
+      {
+        "Name": "Jarost"
+      },
+      {
+        "Name": "J!mmy wEst"
+      },
+      {
+        "Name": "Ventolin"
+      },
+      {
+        "Name": "Vondork"
+      }
+    ],
+    "UUID": "14a26d18-db55-5b87-81cc-c94a56a6d23c"
+  },
+  {
+    "Name": "[CT] Beta Test",
+    "NamePrefix": "",
+    "Current Map": "CNC-Islands_X",
+    "Bots": 0,
+    "Players": 0,
+    "Game Version": "Open Beta 5.584.211",
+    "Attributes": [],
+    "Variables": {
+      "Mine Limit": 26,
+      "bSteamRequired": false,
+      "bPrivateMessageTeamOnly": false,
+      "bPassworded": true,
+      "bAllowPrivateMessaging": true,
+      "Player Limit": 64,
+      "Vehicle Limit": 12,
+      "bAutoBalanceTeams": false,
+      "Team Mode": 6,
+      "bSpawnCrates": true,
+      "CrateRespawnAfterPickup": 30,
+      "Time Limit": 0
+    },
+    "Levels": [
+      {
+        "Name": "CNC-Field_Winter",
+        "GUID": "CA17CD0C4F7929E05E87BEB7A248980C"
+      },
+      {
+        "Name": "CNC-Hourglass",
+        "GUID": "C56FC04B416DC7BDB3DD39B00347438F"
+      },
+      {
+        "Name": "CNC-Walls",
+        "GUID": "66C5C4F944D7F0F06378A09875129049"
+      },
+      {
+        "Name": "CNC-Walls_Winter",
+        "GUID": "DC65CBB84C8C9BC4482136832AFADA21"
+      },
+      {
+        "Name": "CNC-GoldRush",
+        "GUID": "3AF68B9A4255C4976D669BA0019D855D"
+      },
+      {
+        "Name": "CNC-Whiteout",
+        "GUID": "D8728BAF485975A5D2CE8286A9976F18"
+      },
+      {
+        "Name": "CNC-Islands",
+        "GUID": "E12D3C814F0C54F050AA41BC49169A49"
+      },
+      {
+        "Name": "CNC-Islands_X",
+        "GUID": "5C3B23D1477A2F753F487AA1865AA01D"
+      },
+      {
+        "Name": "CNC-Mesa",
+        "GUID": "6C62C83243AF778CE7424E8BC3B763D0"
+      },
+      {
+        "Name": "CNC-Volcano",
+        "GUID": "B1665D8647A4F3F9B8D1279BF925C703"
+      },
+      {
+        "Name": "CNC-Canyon",
+        "GUID": "4A9EFF9F4FC4678965B3058B649F049E"
+      },
+      {
+        "Name": "CNC-Eyes",
+        "GUID": "F0B4EE904B29FA53F34DD4A7C619D779"
+      },
+      {
+        "Name": "CNC-Complex",
+        "GUID": "32566DFC4D753883F1790390F9370D45"
+      },
+      {
+        "Name": "CNC-Under",
+        "GUID": "928ECDD2492C4E8EC62A7DA4BC17B057"
+      },
+      {
+        "Name": "CNC-Lakeside_Winter",
+        "GUID": "0067CB76426DB6911A8B858A44D1C54E"
+      },
+      {
+        "Name": "CNC-CliffSide",
+        "GUID": "6DFF96064AE6F3A97DB17F982BB8AD4E"
+      },
+      {
+        "Name": "CNC-Crash_Site",
+        "GUID": "353A267744D0DD389ACEFFA0D5ACB5CA"
+      },
+      {
+        "Name": "CNC-Field_X",
+        "GUID": "386D011C49B6BF60F287D7A5B471ABCB"
+      },
+      {
+        "Name": "CNC-Oasis",
+        "GUID": "6E8EB59D477A713FFCAF768369642DA5"
+      },
+      {
+        "Name": "CNC-Outposts",
+        "GUID": "C889016A4A8C1BC620F00B94340CD2C5"
+      },
+      {
+        "Name": "CNC-Reservoir_Snowy",
+        "GUID": "705430AF4BDC99A48DD86BA70FAF8BA3"
+      },
+      {
+        "Name": "CNC-Snow",
+        "GUID": "E3437A3D4C518D070BE1489FEC097FEB"
+      },
+      {
+        "Name": "CNC-Tomb",
+        "GUID": "CE7DDFFA4C3845D09BF6AF9E1CF7958C"
+      },
+      {
+        "Name": "CNC-Tunnels",
+        "GUID": "184DFCC1452FF7DE4624499281DB6500"
+      },
+      {
+        "Name": "CNC-Uphill",
+        "GUID": "9BC98A804313B89757A4298392BD5B20"
+      },
+      {
+        "Name": "CNC-Arctic_Stronghold",
+        "GUID": "444D17494071194B63FB659CBFD70456"
+      },
+      {
+        "Name": "CNC-Daybreak",
+        "GUID": "056965A847F002789DC1A8AEB4343FB2"
+      },
+      {
+        "Name": "CNC-Steppe",
+        "GUID": "6CF973374C960642B591DE9A24B0F7FB"
+      },
+      {
+        "Name": "CNC-Forest",
+        "GUID": "1D7063AF4764064E4B2E409071F399B6"
+      },
+      {
+        "Name": "CNC-Desolation_Snowing",
+        "GUID": "C35E41614138A41794B91D9ADDFC3766"
+      },
+      {
+        "Name": "BH-Field",
+        "GUID": "E77C0B224CC3BC92D802C487F1CA765A"
+      },
+      {
+        "Name": "BH-Under",
+        "GUID": "DB93F3DE455D80315D944EB1AA6A2441"
+      },
+      {
+        "Name": "BH-LakeSide",
+        "GUID": "775F9A944F932F38314E51871150F524"
+      }
+    ],
+    "UUID": "3a640134-d4c9-55c0-9a2d-a625d07b49f1"
+  },
+  {
     "Name": "[CT] Map Testing",
     "NamePrefix": "",
-    "Current Map": "CNC-Tomb",
+    "Current Map": "CNC-Canyon",
     "Bots": 0,
-    "Players": 2,
+    "Players": 0,
     "Game Version": "Open Beta 5.584.211",
     "Attributes": [],
     "Variables": {
@@ -957,37 +769,29 @@
         "GUID": "775F9A944F932F38314E51871150F524"
       }
     ],
-    "PlayerList": [
-      {
-        "Name": "WhiteChocoBoy"
-      },
-      {
-        "Name": "Player297"
-      }
-    ],
     "UUID": "b583da17-8dbd-50e8-bcc2-6a10aab5fe24"
   },
   {
-    "Name": "Renegade X Server",
+    "Name": "[CT] Snipers Only",
     "NamePrefix": "",
-    "Current Map": "CNC-Snow",
-    "Bots": 22,
-    "Players": 2,
+    "Current Map": "CNC-Field",
+    "Bots": 0,
+    "Players": 0,
     "Game Version": "Open Beta 5.584.211",
     "Attributes": [],
     "Variables": {
-      "Mine Limit": 30,
+      "Mine Limit": 24,
       "bSteamRequired": false,
       "bPrivateMessageTeamOnly": false,
       "bPassworded": false,
       "bAllowPrivateMessaging": true,
-      "Player Limit": 64,
+      "Player Limit": 20,
       "Vehicle Limit": 11,
       "bAutoBalanceTeams": false,
-      "Team Mode": 4,
+      "Team Mode": 6,
       "bSpawnCrates": true,
       "CrateRespawnAfterPickup": 30,
-      "Time Limit": 35
+      "Time Limit": 0
     },
     "Levels": [
       {
@@ -1111,14 +915,146 @@
         "GUID": "775F9A944F932F38314E51871150F524"
       }
     ],
-    "PlayerList": [
+    "Mutators": [
       {
-        "Name": "DiscoPanzer"
-      },
-      {
-        "Name": "Detritus"
+        "Name": "Rx_SniperMode"
       }
     ],
-    "UUID": "6db69522-2bd1-5bf1-bfd9-93d2571c84df"
+    "UUID": "464741e9-ef6f-5b7c-b15e-855cbc3159d7"
+  },
+  {
+    "Name": "[CT] PUG Server",
+    "NamePrefix": "",
+    "Current Map": "CNC-Under",
+    "Bots": 0,
+    "Players": 0,
+    "Game Version": "Open Beta 5.584.211",
+    "Attributes": [],
+    "Variables": {
+      "Mine Limit": 24,
+      "bSteamRequired": false,
+      "bPrivateMessageTeamOnly": false,
+      "bPassworded": true,
+      "bAllowPrivateMessaging": true,
+      "Player Limit": 64,
+      "Vehicle Limit": 10,
+      "bAutoBalanceTeams": false,
+      "Team Mode": 1,
+      "bSpawnCrates": true,
+      "CrateRespawnAfterPickup": 31,
+      "Time Limit": 0
+    },
+    "Levels": [
+      {
+        "Name": "CNC-Field_Winter",
+        "GUID": "CA17CD0C4F7929E05E87BEB7A248980C"
+      },
+      {
+        "Name": "CNC-Hourglass",
+        "GUID": "C56FC04B416DC7BDB3DD39B00347438F"
+      },
+      {
+        "Name": "CNC-Walls_Winter",
+        "GUID": "DC65CBB84C8C9BC4482136832AFADA21"
+      },
+      {
+        "Name": "CNC-GoldRush",
+        "GUID": "3AF68B9A4255C4976D669BA0019D855D"
+      },
+      {
+        "Name": "CNC-Islands",
+        "GUID": "E12D3C814F0C54F050AA41BC49169A49"
+      },
+      {
+        "Name": "CNC-Islands_X",
+        "GUID": "5C3B23D1477A2F753F487AA1865AA01D"
+      },
+      {
+        "Name": "CNC-Mesa",
+        "GUID": "6C62C83243AF778CE7424E8BC3B763D0"
+      },
+      {
+        "Name": "CNC-Volcano",
+        "GUID": "B1665D8647A4F3F9B8D1279BF925C703"
+      },
+      {
+        "Name": "CNC-Eyes",
+        "GUID": "F0B4EE904B29FA53F34DD4A7C619D779"
+      },
+      {
+        "Name": "CNC-Complex",
+        "GUID": "32566DFC4D753883F1790390F9370D45"
+      },
+      {
+        "Name": "CNC-Under",
+        "GUID": "928ECDD2492C4E8EC62A7DA4BC17B057"
+      },
+      {
+        "Name": "CNC-CliffSide",
+        "GUID": "6DFF96064AE6F3A97DB17F982BB8AD4E"
+      },
+      {
+        "Name": "CNC-Crash_Site",
+        "GUID": "353A267744D0DD389ACEFFA0D5ACB5CA"
+      },
+      {
+        "Name": "CNC-Field_X",
+        "GUID": "386D011C49B6BF60F287D7A5B471ABCB"
+      },
+      {
+        "Name": "CNC-Oasis",
+        "GUID": "6E8EB59D477A713FFCAF768369642DA5"
+      },
+      {
+        "Name": "CNC-Outposts",
+        "GUID": "C889016A4A8C1BC620F00B94340CD2C5"
+      },
+      {
+        "Name": "CNC-Reservoir_Snowy",
+        "GUID": "705430AF4BDC99A48DD86BA70FAF8BA3"
+      },
+      {
+        "Name": "CNC-Tomb",
+        "GUID": "CE7DDFFA4C3845D09BF6AF9E1CF7958C"
+      },
+      {
+        "Name": "CNC-Tunnels",
+        "GUID": "184DFCC1452FF7DE4624499281DB6500"
+      },
+      {
+        "Name": "CNC-Uphill",
+        "GUID": "9BC98A804313B89757A4298392BD5B20"
+      },
+      {
+        "Name": "CNC-Arctic_Stronghold",
+        "GUID": "444D17494071194B63FB659CBFD70456"
+      },
+      {
+        "Name": "CNC-Daybreak",
+        "GUID": "056965A847F002789DC1A8AEB4343FB2"
+      },
+      {
+        "Name": "CNC-Lakeside_Winter",
+        "GUID": "0067CB76426DB6911A8B858A44D1C54E"
+      },
+      {
+        "Name": "CNC-Steppe",
+        "GUID": "6CF973374C960642B591DE9A24B0F7FB"
+      },
+      {
+        "Name": "CNC-Forest",
+        "GUID": "1D7063AF4764064E4B2E409071F399B6"
+      },
+      {
+        "Name": "CNC-Desolation_Snowing",
+        "GUID": "C35E41614138A41794B91D9ADDFC3766"
+      }
+    ],
+    "Mutators": [
+      {
+        "Name": "Rx_WebMutator"
+      }
+    ],
+    "UUID": "d719258b-7deb-5dd7-b212-9985149db7c4"
   }
 ]

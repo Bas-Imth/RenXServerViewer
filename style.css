@@ -29,14 +29,16 @@ ul {
 
 .serverInfo {
 	position: absolute;
-	width: 400px;
+	width: 440px;
+	text-align: center;
 	top: -10px;
 	left: 50%;
-	margin-left: -200px
+	margin-left: -220px
 }
 
 @media (min-width:720px) {
 	.serverInfo {
+		text-align: left;
 		left: 20px;
 		margin-left: 0;
 	}
