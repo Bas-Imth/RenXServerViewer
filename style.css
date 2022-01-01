@@ -117,7 +117,7 @@ ul {
 
 .mapInfo {
 	position: absolute;
-	top: 300px;
+	top: 250px;
 	left: 50%;
 	transform: translate(-50%, -50%);
 	text-align: center;
@@ -138,6 +138,10 @@ ul {
 	transform: translate(-50%, -50%);
 	text-align: center;
 	opacity: 0;
+}
+
+.totalCount {
+	margin: 0;
 }
 
 @media (min-width:720px) {
